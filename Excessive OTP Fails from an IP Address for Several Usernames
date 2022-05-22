@@ -1,0 +1,6 @@
+Apply Credential Access - Excessive OTP Fails from an IP Address for Several Usernames
+and when the event matches Event Name is OTP Incorrect
+and when at least 3 events are seen with the same Source IP and different Username in 12 hour(s)
+
+Reference:
+https://attack.mitre.org/techniques/T1621/
